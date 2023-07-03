@@ -1,0 +1,21 @@
+.Trabajo1{
+    background-color: rgb(161, 161, 161);
+    width: 230px;
+    height: 380px;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
+.Trabajo1:hover{
+    border: solid red 1px;
+}
+
+.Anuncio{
+    font-size: 20px;
+}
+
+.trabajo{
+    width: 220px;
+    border: solid black;
+}

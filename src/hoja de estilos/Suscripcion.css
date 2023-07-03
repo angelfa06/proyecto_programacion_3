@@ -1,0 +1,44 @@
+.Formulario{
+    background-color: rgb(210, 124, 124);
+    height: 380px;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+h3{
+    font-size: 40px;
+
+}
+h4{
+    color: white;
+    font-size: 20px;
+}
+
+.controls{
+    align-items: center;
+    margin-top: 20px;
+    height: 27px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+.contenedor1{
+    margin: 10px;
+    border-radius: 20px;
+    height: 150px;
+    float: left;
+    width: 40vw;
+
+
+}
+
+.contenedor2{
+    background-color: black;
+    border-radius: 20px;
+    margin: 10px;
+    bottom: 10px;
+    float: right;
+    width: 45vw;
+    height: 300px;
+
+}
